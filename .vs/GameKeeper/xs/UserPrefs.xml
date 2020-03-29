@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{61EC3EFA-B0AF-4B1D-9F16-A9AEED4772D0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GameKeeper/Controllers/GameController.cs">
+    <Files>
+      <File FileName="GameKeeper/Controllers/GameController.cs" Line="85" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GameKeeper" expanded="True">
+            <Node name="GameKeeper" expanded="True">
+              <Node name="ClientApp" expanded="True">
+                <Node name="src" expanded="True">
+                  <Node name="components" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Controllers" expanded="True">
+                <Node name="GameController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.GameKeeper PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>
